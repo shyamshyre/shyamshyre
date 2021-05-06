@@ -4,7 +4,7 @@
 - OpenSource Lover ...
 - 👀 Love to play around technologies.
 - I can deep dive across below technolgies, if you tend to feel challenge across , i can lend my helping hand.
-- Java,Spring,MicroServices,Multitenant,Docker,Node,Kafka,Sinks,Confluent,ELK,IOT,NodeRed,Sockets etc..
+- Java,Spring,MicroServices,Multitenant,Docker,Node,Kafka,Sinks,Confluent,ELK,IOT,NodeRed,Sockets,Mysql,Mongo,Redis,Solr etc..
 - SAAS MultiTenancy Model:  https://github.com/shyamshyre/multitenant-dynamic
 
 - Anyone need explanation across live use case's , Architectural design.
