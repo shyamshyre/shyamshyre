@@ -6,7 +6,8 @@
 - I can deep dive across below technolgies, if you tend to feel challenge across , i can lend my helping hand.
 - Java,Spring,MicroServices,Multitenant,Docker,Node,Kafka,Sinks,Confluent,ELK,IOT,NodeRed,Sockets,Mysql,Mongo,Redis,Solr,Ionic,Angular etc..
 
-- Handcrafted to make your learnign curve ease check.
+- Handcrafted to make your learning curve ease.
+- Python - Data Science
 - https://github.com/shyamshyre/python
 - https://github.com/shyamshyre/pandas
 - https://github.com/shyamshyre/numpys
