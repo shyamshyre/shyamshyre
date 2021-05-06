@@ -6,7 +6,7 @@
 - I can deep dive across below technolgies, if you tend to feel challenge across , i can lend my helping hand.
 - Java,Spring,MicroServices,Multitenant,Docker,Node,Kafka,Sinks,Confluent,ELK,IOT,NodeRed,Sockets,Mysql,Mongo,Redis,Solr,Ionic,Angular etc..
 
-- Handcrafted to make your learning curve ease.
+- Handcrafted to make ease your learning curve ease.
 - Python - Data Science
 - https://github.com/shyamshyre/python
 - https://github.com/shyamshyre/pandas
@@ -16,4 +16,7 @@
 
 - Help in solving complex use Cases, RFPS, Streamlining Process, Solution responses , Architecure design.
 - you can reachme at shyam.shyre@gmail.com
-
+ 
+- Coming up :
+- MicroServices Java application.
+-  SpringBoot,Security,Registry (Eureka), API Gateway Hystrix, Circuit Breaker, Centralized Config(Cloud-Config), Distrbuted LogTraccing (ELK) ,      Containerization using Kubernetes.
