@@ -2,7 +2,7 @@
 - Passionate in Building Enterprise applicaton's Divorced Traditional Deployment(Still in relation), Married CLOUD.
 - OpenSource Lover ...
 - 👀 Love to play around technologies.
-- I can deep dive across below things, i clearing any of your issues/concerns.
+- I can deep dive across below technolgies, if you tend to feel challenge across , i can lend my helping hand.
 - Java,Spring,MicroServices,Multitenant,Docker,Node,Kafka,Sinks,Confluent,ELK,IOT,NodeRed,Sockets etc..
 - 
 - SAAS MultiTenancy Model:  https://github.com/shyamshyre/multitenant-dynamic
