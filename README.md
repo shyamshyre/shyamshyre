@@ -7,6 +7,6 @@
 - Java,Spring,MicroServices,Multitenant,Docker,Node,Kafka,Sinks,Confluent,ELK,IOT,NodeRed,Sockets,Mysql,Mongo,Redis,Solr etc..
 - SAAS MultiTenancy Model:  https://github.com/shyamshyre/multitenant-dynamic
 
-- Anyone need explanation across live use case's , Architectural design.
+- Help in solving complex use Cases, RFPS, Solution responses , Architecure design.
 - you can reachme at shyam.shyre@gmail.com
 
